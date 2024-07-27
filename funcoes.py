@@ -1,4 +1,6 @@
+
 def get_regiao(uf):
+    # uf: string
     uf_to_regiao = {
         'AC': 'Norte', 'AL': 'Nordeste', 'AP': 'Norte', 'AM': 'Norte', 'BA': 'Nordeste',
         'CE': 'Nordeste', 'DF': 'Centro-Oeste', 'ES': 'Sudeste', 'GO': 'Centro-Oeste',
