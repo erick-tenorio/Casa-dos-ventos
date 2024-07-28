@@ -1,1 +1,1 @@
-Arquivos e códigos do Processo Seletivo para o time de Analytics da Casa dos Ventos, realizado em 07/2024. O enunciado da atividade está anexo em PDF.
+Arquivos e códigos do Processo Seletivo para o time de Analytics da Casa dos Ventos, realizado em 07/2024. O enunciado da atividade está anexo em PDF. O notebook principal apresenta os códigos referentes à extração, análise e armazenamento de dados de aerogeradores no Brasil.
